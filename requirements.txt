@@ -4,6 +4,3 @@ streamlit_folium
 pandas
 yfinance
 plotly
-datetime
-timedelta
-re
